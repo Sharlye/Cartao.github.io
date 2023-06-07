@@ -124,7 +124,7 @@ ul li a:hover {
 }
 
 #social-links {
-    display: flex;
+    display:flexbox;
     justify-content: center;
     padding: 24px, 0;
     font-size: 24px;
